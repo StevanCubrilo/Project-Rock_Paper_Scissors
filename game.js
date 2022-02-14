@@ -18,7 +18,7 @@ function playerPlay () {
 
 }
 
-let playerSelection = playerPlay ();
+//let playerSelection = playerPlay ();
 
 //create function to play one round
 function round (playerSelection,computerSelection) {
@@ -41,7 +41,7 @@ function round (playerSelection,computerSelection) {
     }
 }
 
-let oneparty = round(playerSelection,computerSelection);
+//let oneparty = round(playerSelection,computerSelection);
 
 //console.log(round(playerSelection,computerSelection));
 
@@ -57,7 +57,7 @@ function game() {
   }
 
 
-game();
+//game();
 
 
 //let i = 0;
